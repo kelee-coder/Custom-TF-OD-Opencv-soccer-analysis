@@ -55,6 +55,23 @@ Trained Models
 <br>
 
 6.ROI based Real-time formation estimation & Show which side is on Attack/Defend/Build Up 
+
+Formation Calc Code)
+<br>
+![image](https://user-images.githubusercontent.com/29156820/96339127-7871dc00-10cd-11eb-81fc-0f736dc16eb0.png)
+<br>
+
+Calc Distance between Players)
+<br>
+![image](https://user-images.githubusercontent.com/29156820/96339143-94757d80-10cd-11eb-86b5-18ffd59bdfe2.png)
+<br>
+
+Show which side is on Attack/Defend/Build Up Code)-Using Optical Flow)
+<br>
+![image](https://user-images.githubusercontent.com/29156820/96339156-b1aa4c00-10cd-11eb-9e62-301597461a95.png)
+<br>
+
+
 #Home Team Attack
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338923-2bd9d100-10cc-11eb-8edf-30d76f2dbed4.png)
@@ -79,11 +96,9 @@ Trained Models
 <br>
 
 
-7. Show respective View by color masking
+7.Show respective View by color masking
 <br>
-
 ![image](https://user-images.githubusercontent.com/29156820/96338954-66436e00-10cc-11eb-8c51-19b3b9e1ef34.png)
-<br>
 ![image](https://user-images.githubusercontent.com/29156820/96338959-693e5e80-10cc-11eb-8bff-bc5f50459427.png)
 <br>
 
