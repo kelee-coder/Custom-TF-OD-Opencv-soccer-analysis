@@ -18,13 +18,15 @@ Main Keyword of this Project)
 Flow Chart)
 <br>
 <img width="2903" alt="졸업작품 Flow chart resized" src="https://user-images.githubusercontent.com/29156820/96338727-026c7580-10cb-11eb-9411-c514ddba0150.png">
-
+<br>
 
 Overall)
 <br>
 1.Labeling Image for Player Detection
+<br>
 <img width="233" alt="label_result2" src="https://user-images.githubusercontent.com/29156820/96338703-e49f1080-10ca-11eb-9020-0a85de094e32.PNG">
 <br>
+
 2. Dataset conversion
 ![image](https://user-images.githubusercontent.com/29156820/96338789-642cdf80-10cb-11eb-8283-75784a57c639.png)
 <br>
@@ -46,13 +48,12 @@ Trained Models
 ![image](https://user-images.githubusercontent.com/29156820/96338849-b0781f80-10cb-11eb-8470-76667da2476c.png)
 <br>
 
-5. Team Segmentation(Home/Away)
+5. Team Segmentation
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338858-c554b300-10cb-11eb-988e-682609311335.png)
 <br>
 
 6. ROI based Real-time formation estimation & Show which side is on Attack/Defend/Build Up 
-<br>
 #Home Team Attack
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338923-2bd9d100-10cc-11eb-8edf-30d76f2dbed4.png)
