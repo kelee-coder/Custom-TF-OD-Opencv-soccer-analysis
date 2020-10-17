@@ -27,33 +27,34 @@ Overall)
 <img width="233" alt="label_result2" src="https://user-images.githubusercontent.com/29156820/96338703-e49f1080-10ca-11eb-9020-0a85de094e32.PNG">
 <br>
 
-2. Dataset conversion
-![image](https://user-images.githubusercontent.com/29156820/96338789-642cdf80-10cb-11eb-8283-75784a57c639.png)
+2.Dataset conversion
 <br>
+![image](https://user-images.githubusercontent.com/29156820/96338789-642cdf80-10cb-11eb-8283-75784a57c639.png)
 ![image](https://user-images.githubusercontent.com/29156820/96338793-6bec8400-10cb-11eb-93a3-5042a2335c08.png)
 <br>
 
 
-3. Training Custom Player Detection Model
-<br>
+3.Training Custom Player Detection Model
+
 ![image](https://user-images.githubusercontent.com/29156820/96338818-8d4d7000-10cb-11eb-8d36-900700dd5585.png)
 <br>
+
 Trained Models
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338840-a1916d00-10cb-11eb-9d4c-a157267d550f.png)
 <br>
 
-4. Player Detection Test
+4.Player Detection Test
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338849-b0781f80-10cb-11eb-8470-76667da2476c.png)
 <br>
 
-5. Team Segmentation
+5.Team Segmentation
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338858-c554b300-10cb-11eb-988e-682609311335.png)
 <br>
 
-6. ROI based Real-time formation estimation & Show which side is on Attack/Defend/Build Up 
+6.ROI based Real-time formation estimation & Show which side is on Attack/Defend/Build Up 
 #Home Team Attack
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338923-2bd9d100-10cc-11eb-8edf-30d76f2dbed4.png)
