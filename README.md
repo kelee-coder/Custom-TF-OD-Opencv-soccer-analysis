@@ -1,6 +1,6 @@
 # Custom-TF-OD-Opencv-soccer-analysis-Grad-Project-
 
-This project is made by Lee Kang Eun
+This project is made by Candy Lee
 
 Main Keyword of this Project)
 
