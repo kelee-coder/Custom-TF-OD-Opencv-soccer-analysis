@@ -4,7 +4,7 @@ This project is made by Candy Lee
 
 Main Keyword of this Project)
 
-1. Custom Object-Detection Modeling
+1. Custom Object-Detection Model(refer to "Sendtex youtuber python deeplearning lecture")
 
 2. Opencv Library
 
