@@ -1,6 +1,10 @@
-# Custom-TF-OD-Opencv-soccer-analysis-Grad-Project-
+#Custom-TF-OD-Opencv-soccer-analysis#
 
 This project is made by Candy Lee
+<br><br>
+
+
+
 
 Main Keyword of this Project)
 
@@ -14,13 +18,14 @@ Main Keyword of this Project)
 
 5. Soccer games(FIFA,PES series)
 
+<br><br>
 
 Flow Chart)
 <br>
 <img width="2903" alt="졸업작품 Flow chart resized" src="https://user-images.githubusercontent.com/29156820/96338727-026c7580-10cb-11eb-9411-c514ddba0150.png">
 <br>
 
-Overall)
+[Outline]
 <br>
 1.Labeling Image for Player Detection
 <br>
