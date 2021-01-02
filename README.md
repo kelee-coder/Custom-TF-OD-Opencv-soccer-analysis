@@ -1,6 +1,5 @@
 #Custom-TF-OD-Opencv-soccer-analysis#
 
-This project is made by Candy Lee
 <br><br>
 
 
@@ -98,13 +97,6 @@ Show which side is on Attack/Defend/Build Up Code)-Using Optical Flow)
 #Away Team Attack & Build Up
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338940-4ca22680-10cc-11eb-975e-7f0d4c294191.png)
-<br>
-
-
-7.Show respective View by color masking
-<br>
-![image](https://user-images.githubusercontent.com/29156820/96338954-66436e00-10cc-11eb-8c51-19b3b9e1ef34.png)
-![image](https://user-images.githubusercontent.com/29156820/96338959-693e5e80-10cc-11eb-8bff-bc5f50459427.png)
 <br>
 
 
