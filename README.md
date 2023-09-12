@@ -1,11 +1,4 @@
-# Match Analyzer (Personal Project)
-
-<br><br>
-
-
-
-
-## Keywords
+# Keywords
 
 - Custom Object-Detection Model(refer to "Sendtex youtuber python deeplearning lecture")
 - Computer Vision
