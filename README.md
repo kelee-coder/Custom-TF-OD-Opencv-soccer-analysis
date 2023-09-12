@@ -1,11 +1,11 @@
-#Custom-TF-OD-Opencv-soccer-analysis#
+## Match Analyzer (Personal Project)
 
 <br><br>
 
 
 
 
-Main Keyword of this Project)
+# Main Keyword of this Project)
 
 1. Custom Object-Detection Model(refer to "Sendtex youtuber python deeplearning lecture")
 
@@ -19,12 +19,12 @@ Main Keyword of this Project)
 
 <br><br>
 
-Flow Chart)
+# Flow Chart
 <br>
 <img width="2903" alt="졸업작품 Flow chart resized" src="https://user-images.githubusercontent.com/29156820/96338727-026c7580-10cb-11eb-9411-c514ddba0150.png">
 <br>
 
-[Outline]
+# [Outline]
 <br>
 1.Labeling Image for Player Detection
 <br>
@@ -58,43 +58,35 @@ Trained Models
 ![image](https://user-images.githubusercontent.com/29156820/96338858-c554b300-10cb-11eb-988e-682609311335.png)
 <br>
 
-6.ROI based Real-time formation estimation & Show which side is on Attack/Defend/Build Up 
-
-Formation Calc Code)
-<br>
-![image](https://user-images.githubusercontent.com/29156820/96339127-7871dc00-10cd-11eb-81fc-0f736dc16eb0.png)
-<br>
-
-Calc Distance between Players)
-<br>
-![image](https://user-images.githubusercontent.com/29156820/96339143-94757d80-10cd-11eb-86b5-18ffd59bdfe2.png)
-<br>
 
 Show which side is on Attack/Defend/Build Up Code)-Using Optical Flow)
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96339156-b1aa4c00-10cd-11eb-9e62-301597461a95.png)
 <br>
+<br>
+<br>
 
 
-#Home Team Attack
+# Results
+Home Team Attack
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338923-2bd9d100-10cc-11eb-8edf-30d76f2dbed4.png)
 <br>
 
 
-#Home Team Attack & Build Up
+Home Team Attack & Build Up
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338927-34caa280-10cc-11eb-9a19-135d7a64f577.png)
 <br>
 
 
-#Away Team Attack
+Away Team Attack
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338934-40b66480-10cc-11eb-8c4a-018f4799f541.png)
 <br>
 
 
-#Away Team Attack & Build Up
+Away Team Attack & Build Up
 <br>
 ![image](https://user-images.githubusercontent.com/29156820/96338940-4ca22680-10cc-11eb-975e-7f0d4c294191.png)
 <br>
