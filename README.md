@@ -1,21 +1,16 @@
-## Match Analyzer (Personal Project)
+# Match Analyzer (Personal Project)
 
 <br><br>
 
 
 
 
-# Main Keyword of this Project)
+## Keywords
 
-1. Custom Object-Detection Model(refer to "Sendtex youtuber python deeplearning lecture")
+- Custom Object-Detection Model(refer to "Sendtex youtuber python deeplearning lecture")
+- Computer Vision
+- Soccer Game(FIFA, PES series..) analysis
 
-2. Opencv Library
-
-3. Computer Vision
-
-4. Soccer analysis
-
-5. Soccer games(FIFA,PES series)
 
 <br><br>
 
